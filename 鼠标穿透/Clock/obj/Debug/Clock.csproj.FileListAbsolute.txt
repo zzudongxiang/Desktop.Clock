@@ -1,0 +1,20 @@
+C:\Users\Berney\Desktop\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Berney\Desktop\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Berney\Desktop\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.Main_Form.resources
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.Schedule.resources
+C:\Users\Berney\Desktop\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\My Project\(2017.02.06)Clock\Clock\bin\Debug\Clock.exe.config
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.exe
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.pdb
+D:\My Project\(2017.02.06)Clock\Clock\bin\Debug\Clock.exe
+D:\My Project\(2017.02.06)Clock\Clock\bin\Debug\Clock.pdb
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.Main_Form.resources
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.Schedule.resources
+D:\My Project\(2017.02.06)Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
